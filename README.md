@@ -57,7 +57,7 @@ I am **Sharvari Karnase**, a passionate **Java Full Stack Developer**. I love co
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharvari25-hash&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" />
 </div>
 
----
+--- 
 
 ### 📊 GitHub Stats
 <div align="center">
